@@ -56,4 +56,5 @@ var cart = document.querySelector("#cart");
  
  # What Next
  
- This is currently a work in progress as, i still need to add the checkout option, and make bug fixes 
+ - Checkout option
+ - Minor bug fixes
