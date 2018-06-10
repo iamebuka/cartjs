@@ -2,7 +2,7 @@
 A simple javascript cart library
 
 
-This is a fully customizable javascript library that can be used for single page application
+This is a light weight javascript library that can be used for single page application
 it enables you create carts, add, remove items from carts and clear apps.
 
 
